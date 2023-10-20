@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "category": {
+        "slug": "technology",
+        "name": "Technology",
+        "description": "Pek vebijen in ososol ja meede buhovbek ho utrizgi dismo muflaramo ho."
+      },
+      "title": "Hi nolmuc agutuzat ha hanlefag ohitab eniji",
+      "date": 26938846.530266665,
+      "image": {
+        "id": "gxD8hCmi0IQ",
+        "width": 5279,
+        "height": 3519,
+        "url": "https://images.unsplash.com/photo-1474403078171-7f199e9d1335?ixid=M3w0ODE1NzR8MHwxfGNvbGxlY3Rpb258MTcxfDE5NjY4Mzd8fHx8fDJ8fDE2OTA2MzExMDB8&ixlib=rb-4.0.3",
+        "userName": "Parker Byrd",
+        "userLink": "https://unsplash.com/@parkerabyrd"
+      },
+      "subtitle": "Nuid akokaje pu sage hol zanpi vase okgakfa suhbe towuz kigu dujpojfo muge iczodi sivina gar kavihla reshurkez. Onu nuzud nic wera woatpi lumhe vifel upo aseez tuvjoef jut gokgig mo.",
+      "author": {
+        "id": 2,
+        "avatarId": 68,
+        "name": "Danny Harper"
+      }
+    }
+  ],
+  "pagination": {
+    "curr": "3",
+    "prev": "2"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "category": {
+        "slug": "startup",
+        "name": "Startup",
+        "description": "Renwipif ropikne netetu ukcovuj hi ocok gow pijuika mot do."
+      },
+      "title": "Irumajru wugci kufzelet ca puhvam adaafol mihupog fe",
+      "date": 26927115.977566667,
+      "image": {
+        "id": "TGX8EjjgoMo",
+        "width": 6658,
+        "height": 4439,
+        "url": "https://images.unsplash.com/photo-1573878412480-ec1bdc30ef53?ixid=M3w0ODE1NzR8MHwxfGNvbGxlY3Rpb258NHwxOTY2ODM3fHx8fHwyfHwxNjkwNjMwNzMyfA&ixlib=rb-4.0.3",
+        "userName": "AllGo - An App For Plus Size People",
+        "userLink": "https://unsplash.com/@canweallgo"
+      },
+      "subtitle": "Ge seg fehever sujas wipef kelbo mic pun ciwuhuni sa dow gofegu jekohal wizhifrih cenic ug toteboeto. Tiir apa ro tosoopa uh ceizugoz awi cagur doga modad podcutej gokizuj wippat.",
+      "author": {
+        "id": 1,
+        "avatarId": 32,
+        "name": "Hilda Ray"
+      }
+    },
+    {
+      "id": 2,
+      "category": {
+        "slug": "startup",
+        "name": "Startup",
+        "description": "Renwipif ropikne netetu ukcovuj hi ocok gow pijuika mot do."
+      },
+      "title": "Can hevezi foz boivugaw jabri cimot ti mob",
+      "date": 26876949.59675,
+      "image": {
+        "id": "Q-y8EsExqYA",
+        "width": 5001,
+        "height": 3456,
+        "url": "https://images.unsplash.com/photo-1553268169-8232852a2377?ixid=M3w0ODE1NzR8MHwxfGNvbGxlY3Rpb258MTQyfDE5NjY4Mzd8fHx8fDJ8fDE2OTA2MzEwOTl8&ixlib=rb-4.0.3",
+        "userName": "Jonathan Francisca",
+        "userLink": "https://unsplash.com/@jonathan_francisca"
+      },
+      "subtitle": "Zuvo vavkalni wu toji sur dok mizle jise ted ip domdazal siw uteefaar. Vep rocse canol lop omzah be ferewfuh fa mujju ibzoz so fek vono huos nevib efede wi.",
+      "author": {
+        "id": 3,
+        "avatarId": 11,
+        "name": "Jacob Barber"
+      }
+    }
+  ],
+  "pagination": {
+    "curr": "3",
+    "prev": "2"
+  }
+}

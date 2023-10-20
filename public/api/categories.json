@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "business",
+    "name": "Business",
+    "shortDescription": "Hunhetdu muekra ofa fazwiw zugdu ru."
+  },
+  {
+    "slug": "startup",
+    "name": "Startup",
+    "shortDescription": "Cepigvot ihluf wok ce dugogsim bejo."
+  },
+  {
+    "slug": "economy",
+    "name": "Economy",
+    "shortDescription": "Ludsenigi novtes di nahzaw ji kurno nuvahpo."
+  },
+  {
+    "slug": "technology",
+    "name": "Technology",
+    "shortDescription": "Vuzeb fepda tiruf vablav we ur."
+  }
+]
