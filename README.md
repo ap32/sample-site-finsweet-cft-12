@@ -5,3 +5,5 @@ Static site based on [`Finsweet Client-First Template 12 - Blog`](https://www.fi
 Made with
 - [SolidStart](https://start.solidjs.com/)
 - [UnoCSS](https://unocss.dev/)
+
+Published on Cloudflare Pages: https://sample-site-finsweet-cft-12.pages.dev/
