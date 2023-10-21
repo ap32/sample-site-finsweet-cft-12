@@ -25,30 +25,47 @@ function numsToObj(nums: Iterable<number>): Record<string, number> {
   return acc;
 }
 
+function media(from?: number, to?: number) {
+  const features: string[] = [];
+  if (from !== undefined && from > 0) {
+    features.push(`(min-width: ${from}px)`);
+  }
+
+  if (to !== undefined) {
+    features.push(`(max-width: ${(to - 0.1).toFixed(1)}px)`);
+  }
+
+  if (features.length === 0) {
+    features.push('all');
+  }
+
+  return features.join(' and ');
+}
+
 const breakpoints = [
   {
     name: 'xs',
-    media: 'lt-sm',
+    media: media(undefined, 640),
     width: 360,
   },
   {
     name: 'sm',
-    media: 'at-sm',
+    media: media(640, 768),
     width: 640,
   },
   {
     name: 'md',
-    media: 'at-md',
+    media: media(768, 1024),
     width: 768,
   },
   {
     name: 'lg',
-    media: 'at-lg',
+    media: media(1024, 1280),
     width: 1024,
   },
   {
     name: 'xl',
-    media: 'xl',
+    media: media(1280),
     width: 1280,
   },
 ] as const;
@@ -197,7 +214,7 @@ export default defineConfig<CustomTheme>({
         const result = breakpoints
           .map(
             ({ name: brName, media }) =>
-              `@screen ${media} {\n  :root {\n    ${vars
+              `@media ${media} {\n  :root {\n    ${vars
 
                 .map(({ name: varName, values }) => {
                   const v = values[brName];
